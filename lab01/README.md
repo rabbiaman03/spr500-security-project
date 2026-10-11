@@ -1,14 +1,9 @@
-> SPR500 — Lab 1
-
-**Enterprise Network Design**
-
-**and Implementation**
+# SPR500 Lab 01 — Enterprise Network Design and Implementation
 
 |                           |                                               |
 |---------------------------|-----------------------------------------------|
 | Domain                    | group6.local                                  |
 | Team                      | Group 6                                       |
-| Team members              | Group 6 (3 members) |
 | Allocated address space   | 192.168.6.128/28                              |
 | Internal segment deployed | 192.168.6.128/28                              |
 | Transit link              | 192.168.6.144/30                              |
@@ -22,39 +17,39 @@
 
 # Contents
 
-[1. Executive summary [3](#executive-summary)](#executive-summary)
+[1. Executive summary](#executive-summary)
 
-[2. Business requirements and test cases [3](#business-requirements-and-test-cases)](#business-requirements-and-test-cases)
+[2. Business requirements and test cases](#business-requirements-and-test-cases)
 
-[3. Network design [4](#network-design)](#network-design)
+[3. Network design](#network-design)
 
-[3.1 Topology [4](#topology)](#topology)
+[3.1 Topology](#topology)
 
-[3.2 IP addressing schema [5](#ip-addressing-schema)](#ip-addressing-schema)
+[3.2 IP addressing schema](#ip-addressing-schema)
 
-[4. Network devices [5](#network-devices)](#network-devices)
+[4. Network devices](#network-devices)
 
-[5. Deployment evidence [6](#deployment-evidence)](#deployment-evidence)
+[5. Deployment evidence](#deployment-evidence)
 
-[5.1 Perimeter and edge router [6](#perimeter-and-edge-router)](#perimeter-and-edge-router)
+[5.1 Perimeter and edge router](#perimeter-and-edge-router)
 
-[5.2 Internal router [8](#internal-router)](#internal-router)
+[5.2 Internal router](#internal-router)
 
-[5.3 External segment [10](#external-segment)](#external-segment)
+[5.3 External segment](#external-segment)
 
-[5.4 Name resolution and directory services [12](#name-resolution-and-directory-services)](#name-resolution-and-directory-services)
+[5.4 Name resolution and directory services](#name-resolution-and-directory-services)
 
-[5.5 Identity and privileged access [13](#identity-and-privileged-access)](#identity-and-privileged-access)
+[5.5 Identity and privileged access](#identity-and-privileged-access)
 
-[5.6 Address assignment [15](#address-assignment)](#address-assignment)
+[5.6 Address assignment](#address-assignment)
 
-[5.7 File sharing [17](#file-sharing)](#file-sharing)
+[5.7 File sharing](#file-sharing)
 
-[5.8 Business services [19](#business-services)](#business-services)
+[5.8 Business services](#business-services)
 
-[6. Logbook [24](#logbook)](#logbook)
+[6. Logbook](#logbook)
 
-[7. Conclusion [27](#conclusion)](#conclusion)
+[7. Conclusion](#conclusion)
 
 # 
 

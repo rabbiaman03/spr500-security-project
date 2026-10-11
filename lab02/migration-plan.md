@@ -1,16 +1,16 @@
 # Contents
 
-[1. Network design diagram [2](#network-design-diagram)](#network-design-diagram)
+[1. Network design diagram](#network-design-diagram)
 
-[2. Business requirements [4](#business-requirements)](#business-requirements)
+[2. Business requirements](#business-requirements)
 
-[3. Network devices and addressing [5](#network-devices-and-addressing)](#network-devices-and-addressing)
+[3. Network devices and addressing](#network-devices-and-addressing)
 
-[4. Software [6](#software)](#software)
+[4. Software](#software)
 
-[5. Security zones [7](#security-zones)](#security-zones)
+[5. Security zones](#security-zones)
 
-[6. Security zone boundaries [7](#security-zone-boundaries)](#security-zone-boundaries)
+[6. Security zone boundaries](#security-zone-boundaries)
 
 # 1. Network design diagram
 

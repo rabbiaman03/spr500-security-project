@@ -1,16 +1,6 @@
-**Lab 2 – Identify Security Zones**
+# SPR500 Lab 02 — Identifying and Implementing Security Zones
 
-Final Report
-
-Group 6 · group6.local · x = 6
-
-
-Student Name: Rabbi Muhammad Aman
-
-
-Course: SPR500 NBB
-
-Submission Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Group 6** · `group6.local` · Course: SPR500 NBB
 
 Contents: 1. Summary · 2. Network design · 3. Deployment evidence · 4. Test case execution · 5. Network proof · 6. Vulnerability scans and TVRA · 7. Logbook · 8. Known limitations
 

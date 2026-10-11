@@ -1,69 +1,65 @@
-SPR500 NBB — Final Project
+# SPR500 Final Project — Stage 1: Project Conceptualization
 
-**Stage 1: Project Conceptualization**
-
-OSINT Technical Specification — DAVIDsTEA Inc.
+**OSINT Technical Specification — DAVIDsTEA Inc.**
 
 | **Group**           | Group 6                                             |
 |---------------------|-----------------------------------------------------|
 | **Student**         | Rabbi Muhammad Aman                     |
 | **Course**          | SPR500 NBB — Security Policies and Network Security |
-| **Professor**       | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_            |
-| **Submission date** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_            |
 
 *All information in this document was gathered by passive open-source intelligence only. No network traffic was sent to any DAVIDsTEA asset, in line with the project rules and Canadian law.*
 
 **Table of Contents**
 
-[1. Executive Summary [3](#executive-summary)](#executive-summary)
+[1. Executive Summary](#executive-summary)
 
-[2. Company Selection [3](#company-selection)](#company-selection)
+[2. Company Selection](#company-selection)
 
-[2.1 Selection criteria [3](#selection-criteria)](#selection-criteria)
+[2.1 Selection criteria](#selection-criteria)
 
-[2.2 Alternatives considered [4](#alternatives-considered)](#alternatives-considered)
+[2.2 Alternatives considered](#alternatives-considered)
 
-[3. Company Profile [4](#company-profile)](#company-profile)
+[3. Company Profile](#company-profile)
 
-[3.1 Business functions that depend on IT [4](#business-functions-that-depend-on-it)](#business-functions-that-depend-on-it)
+[3.1 Business functions that depend on IT](#business-functions-that-depend-on-it)
 
-[4. OSINT Methodology and Rules of Engagement [5](#osint-methodology-and-rules-of-engagement)](#osint-methodology-and-rules-of-engagement)
+[4. OSINT Methodology and Rules of Engagement](#osint-methodology-and-rules-of-engagement)
 
-[4.1 Rules of engagement [5](#rules-of-engagement)](#rules-of-engagement)
+[4.1 Rules of engagement](#rules-of-engagement)
 
-[4.2 Sources used [5](#sources-used)](#sources-used)
+[4.2 Sources used](#sources-used)
 
-[4.3 Further passive sources for later stages [5](#further-passive-sources-for-later-stages)](#further-passive-sources-for-later-stages)
+[4.3 Further passive sources for later stages](#further-passive-sources-for-later-stages)
 
-[5. Public-Facing Services [5](#public-facing-services)](#public-facing-services)
+[5. Public-Facing Services](#public-facing-services)
 
-[6. Internal IT Infrastructure Services [6](#internal-it-infrastructure-services)](#internal-it-infrastructure-services)
+[6. Internal IT Infrastructure Services](#internal-it-infrastructure-services)
 
-[7. Technical Specifications [7](#technical-specifications)](#technical-specifications)
+[7. Technical Specifications](#technical-specifications)
 
-[7.1 Known and probable technology stack [7](#known-and-probable-technology-stack)](#known-and-probable-technology-stack)
+[7.1 Known and probable technology stack](#known-and-probable-technology-stack)
 
-[7.2 Estimated asset inventory [8](#estimated-asset-inventory)](#estimated-asset-inventory)
+[7.2 Estimated asset inventory](#estimated-asset-inventory)
 
-[8. Initial Threat Landscape [8](#initial-threat-landscape)](#initial-threat-landscape)
+[8. Initial Threat Landscape](#initial-threat-landscape)
 
-[9. Laws, Regulations and Pending Legislation [8](#laws-regulations-and-pending-legislation)](#laws-regulations-and-pending-legislation)
+[9. Laws, Regulations and Pending Legislation](#laws-regulations-and-pending-legislation)
 
-[9.1 In force [8](#in-force)](#in-force)
+[9.1 In force](#in-force)
 
-[9.2 Pending or proposed legislation [9](#pending-or-proposed-legislation)](#pending-or-proposed-legislation)
+[9.2 Pending or proposed legislation](#pending-or-proposed-legislation)
 
-[9.3 Frameworks we will use [9](#frameworks-we-will-use)](#frameworks-we-will-use)
+[9.3 Frameworks we will use](#frameworks-we-will-use)
 
-[10. Proposed Scope for the Security Architecture [10](#proposed-scope-for-the-security-architecture)](#proposed-scope-for-the-security-architecture)
+[10. Proposed Scope for the Security Architecture](#proposed-scope-for-the-security-architecture)
 
-[10.1 Mapping DAVIDsTEA to our lab environment [10](#mapping-davidstea-to-our-lab-environment)](#mapping-davidstea-to-our-lab-environment)
+[10.1 Mapping DAVIDsTEA to our lab environment](#mapping-davidstea-to-our-lab-environment)
 
-[10.2 Preliminary security requirements [10](#preliminary-security-requirements)](#preliminary-security-requirements)
+[10.2 Preliminary security requirements](#preliminary-security-requirements)
 
-[10.3 Assumptions and limitations [10](#assumptions-and-limitations)](#assumptions-and-limitations)
+[10.3 Assumptions and limitations](#assumptions-and-limitations)
 
-[11. References [10](#references)](#references)
+[11. References](#references)
 
 # 1. Executive Summary
 
