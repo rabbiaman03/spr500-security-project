@@ -15,7 +15,7 @@
 
 ## 📌 Overview
 
-Group project from **SPR500 (Fall 2026, Seneca Polytechnic)**, completed as a member of **Group 6**. We built the enterprise network `group6.local` in VMware, hardened it from a flat design into a zoned one, and assessed its risks.
+Group project from **SPR500 (Fall 2026, Seneca Polytechnic)**, completed as a member of **Group 6**, together with teammate [@cybersaviour-AS](https://github.com/cybersaviour-AS). We built the enterprise network `group6.local` in VMware, hardened it from a flat design into a zoned one, and assessed its risks.
 
 ![Lab 1 topology](lab01/topology.png)
 
@@ -40,6 +40,15 @@ Group project from **SPR500 (Fall 2026, Seneca Polytechnic)**, completed as a me
 | DNS security | Private resolver for internal clients only; public DNS with no recursion |
 | Least-privilege management | Routers and servers manageable only from an isolated Admin VLAN |
 | Risk management | Threat and vulnerability risk assessment (TVRA) with likelihood, impact and mitigations |
+
+## 👥 Team
+
+| Member | GitHub |
+|---|---|
+| Rabbi Muhammad Aman | [@rabbiaman03](https://github.com/rabbiaman03) |
+| Anjali Solanki | [@cybersaviour-AS](https://github.com/cybersaviour-AS) |
+
+All labs (01–03) and the project were completed as Group 6.
 
 ## 🧰 Tools and skills
 

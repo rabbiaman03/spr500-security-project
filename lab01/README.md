@@ -297,3 +297,7 @@ The same internal collaboration system is not reachable from the external segmen
 All four business-critical services were deployed and verified in the lab environment. Routing, address translation, name resolution, address assignment, identity services and file sharing were confirmed operational through the evidence presented in Section 6. The perimeter boundary was confirmed to be enforced: public services are reachable from the untrusted external segment while the internal collaboration system is not.
 
 The principal residual risk is the absence of internal segmentation. Because all services share a single broadcast domain, a compromise of either internet-facing application would place an attacker on the same segment as the domain controller and the file server. Introducing separate segments for public services, internal services and infrastructure would be the highest-value improvement in a subsequent deployment phase.
+
+---
+
+*Group 6 work. Contributors: [@rabbiaman03](https://github.com/rabbiaman03), [@cybersaviour-AS](https://github.com/cybersaviour-AS).*

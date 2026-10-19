@@ -371,3 +371,7 @@ Our lab will model DAVIDsTEA's head office and one representative store. SaaS se
 \[14\] NIST. (2012). SP 800-30 Rev. 1, Guide for Conducting Risk Assessments. https://csrc.nist.gov/pubs/sp/800/30/r1/final
 
 \[15\] Canadian Centre for Cyber Security. Baseline cyber security controls for small and medium organizations. https://www.cyber.gc.ca/
+
+---
+
+*Group 6 work. Contributors: [@rabbiaman03](https://github.com/rabbiaman03), [@cybersaviour-AS](https://github.com/cybersaviour-AS).*

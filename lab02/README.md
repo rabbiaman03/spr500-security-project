@@ -525,3 +525,7 @@ Figures 36 and 37 show the same zone traffic tagged on the trunk and untagged on
 - Lab-only shortcuts: UAC disabled on the Windows 10 VMs and password-less sudo for the lab admin user on Linux clones; Windows not activated.
 
 - Everything runs on one 16 GB host; desktops are run one at a time.
+
+---
+
+*Group 6 work. Contributors: [@rabbiaman03](https://github.com/rabbiaman03), [@cybersaviour-AS](https://github.com/cybersaviour-AS).*

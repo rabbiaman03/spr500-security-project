@@ -32,3 +32,7 @@ Lab 03 hardens the zoned network with a **stateful internal firewall** and **aut
 - **Appendix:** the Ansible project layout (`router_fw`, `linux_hostfw`, `windows_hostfw` roles) and an excerpt of the Core's stateful ruleset.
 
 **Skills:** nftables (stateful, verdict maps, L7 matching, rate-limit meters) · Ansible (roles, Jinja2 templates, vault, `--check --diff`) · Windows Firewall via WinRM · network segmentation · change management with rollback
+
+---
+
+*Group 6 work. Contributors: [@rabbiaman03](https://github.com/rabbiaman03), [@cybersaviour-AS](https://github.com/cybersaviour-AS).*
